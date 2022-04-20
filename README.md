@@ -1,2 +1,2 @@
 ## Hi there 👋
-- 📫 How to reach me: edoalberti99_AT_gmail_DOT_com / @xleddyl
+- 📫 How to reach me: edoalberti99 _AT_ gmail _DOT_ com / @xleddyl
