@@ -24,8 +24,4 @@
    ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white&style=flat)
    ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
 
-   <br/>
-
-   ![Profile Views](https://komarev.com/ghpvc/?username=xleddyl&style=flat&color=0d1117&label=You+are+visitor+number:)
-
 </div>
